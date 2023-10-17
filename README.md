@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/Selvan-S/fem-product-preview-card-component)
-- Live Site URL: [live site URL here](https://selvan-s.github.io/fem-product-preview-card-component/)
+- Solution URL: [Check out here!](https://github.com/Selvan-S/fem-product-preview-card-component)
+- Live Site URL: [Check out here!](https://selvan-s.github.io/fem-product-preview-card-component/)
 
 ## My process
 
